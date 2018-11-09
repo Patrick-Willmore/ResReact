@@ -349,18 +349,18 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 .implementation {
-  width: 75%;
+  width: 80%;
   -moz-animation: css 2s ease;
   -webkit-animation: css 2s ease;
 }
 .data {
-  width: 70%;
+  width: 75%;
   -moz-animation: css 2s ease;
   -webkit-animation: css 2s ease;
 }
 
 .support {
-  width: 80%;
+  width: 85%;
   -moz-animation: css 2s ease;
   -webkit-animation: css 2s ease;
 }
@@ -375,9 +375,9 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: reactjs 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes support {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
@@ -400,9 +400,9 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 80%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes support {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes illustrator {
   0%   { width: 0px;  }
